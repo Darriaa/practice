@@ -32,6 +32,7 @@ struct student {
 };
 
 int main(int argc, char* argv[]) {
+    
     system("chcp 1251");
     setlocale(LC_ALL, "Russian");
   
