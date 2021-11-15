@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <locale.h>
-#include <cstdlib>
+
 using namespace std;
 
 enum Num_of_commands {
@@ -11,7 +11,7 @@ enum Num_of_commands {
 };
 
 enum {
-    SIZE = 1,
+    SIZE = 3,
     NAME_SIZE = 50,
     SUBJ_SIZE = 50,
     MARK_SIZE = 1
